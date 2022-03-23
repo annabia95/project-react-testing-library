@@ -25,6 +25,12 @@ Neste projeto, desenvolvi as seguintes habilidades:
  - Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
  - Criar mocks de APIs utilizando fetch.
  - Testar inputs.
+ 
+ ## Referências
+ [Testing Library](https://lnkd.in/dG4zQgPw)<br>
+ [Using ARIA: Roles, states, and properties](https://lnkd.in/duKD5uCh)<br>
+ [WAI-ARIA Roles](https://lnkd.in/dcWpzhmz)<br>
+ [Testing Playground](https://lnkd.in/dRgde8-x)<br>
 
 ## Escopo do Projeto
 
