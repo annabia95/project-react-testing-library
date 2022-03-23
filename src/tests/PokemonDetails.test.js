@@ -19,7 +19,7 @@ describe('Sétimo Requisito', () => {
     const summary = screen.getByRole('heading', { name: /summary/i });
     expect(summary).toHaveTextContent('Summary');
 
-    const details = screen.getByText(/this intelligent pokémon roasts hard berries with/i)
+    const details = screen.getByText(/this intelligent pokémon roasts hard berries/i);
     expect(details).toBeInTheDocument();
   });
   it('Existe na página uma seção com os mapas', () => {
